@@ -1,1 +1,1 @@
-kernel_parameters = (item for item in kernels if item['kernel'] == kernel).next()
+  return np.exp(-distances ** 2 /2)
