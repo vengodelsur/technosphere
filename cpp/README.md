@@ -1,4 +1,4 @@
-## Курс "Введение в анализ данных"
+## Курс "Углубленное программирование на C/C++"
 [Программа курса на сайте Техносферы@Mail.Ru](https://sphere.mail.ru/curriculum/program/discipline/819/)
 
 Копия папки `Kuznetsova/` из [репозитория курса](https://github.com/mtrempoltsev/msu_cpp_autumn_2017)
