@@ -1,5 +1,5 @@
 ## Курс "Введение в анализ данных"
-[https://sphere.mail.ru/curriculum/program/discipline/818/](Программа курса на сайте Техносферы@Mail.Ru)
+[Программа курса на сайте Техносферы@Mail.Ru](https://sphere.mail.ru/curriculum/program/discipline/818/)
 
 ### Домашнее задание 1 (сбор данных, визуализация)
 `hw1_kuznetsova.ipynb`
