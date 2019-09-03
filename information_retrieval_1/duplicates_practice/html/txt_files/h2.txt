@@ -1,0 +1,98 @@
+   #[1]RSS 2.0 [2]RSS .92 [3]Atom 0.3 [4]Гана́ш [5]Тёртое какао
+   [6]alternate [7]alternate
+
+   [8]verde-coffee.ru
+   Сайт про кофе и про сладости
+
+     * [9]Home
+     * [10]Новости
+     * [11]Мифы и Легенды
+     * [12]Кофейные напитки
+     * [13]RSS
+
+     * Рекомендуем
+     * Интересное
+     * Полезное
+     * Свежие записи
+          + [14]Экле́р
+          + [15]Холодная собака
+          + [16]Пуншкрапфен
+          + [17]Птифур
+          + [18]Лейпцигские жаворонки
+          + [19]Ламингтон
+          + [20]Кекс-лягушка
+     * Рубрики
+          + [21]Без рубрики
+          + [22]Интересные факты
+          + [23]История кофе.
+          + [24]Кофейные Компании
+          + [25]Кофейные напитки
+          + [26]Мифы и Легенды
+          + [27]Новости
+          + [28]Полезные Советы
+          + [29]Шоколад
+
+[30]Джандуйя
+
+   gianduja_milk_chocolate_barry_callebaut
+
+   Джандуйя (итал. gianduia или gianduja) — шоколадная паста, на треть
+   состоящая из молотых лесных орехов.
+
+   Этот продукт был известен в Пьемонте в первой половине XIX века.
+   Название получил по имени карнавального персонажа-марионетки Джандуя. В
+   Евросоюзе пьемонтский лесной орех относится к продуктам, чьё
+   происхождение подлежит контролю (IGP).
+
+   На основе джандуйи в 1852 году фирма Caffarel из Лузерна-Сан-Джованни
+   начала выпускать конфеты «Джандуйотто» (итал. Gianduiotto), которые
+   стали одной из фирменных сладостей Турина.
+
+   В 1946 году пьемонтский кондитер Пьетро Ферреро (хозяин предприятия
+   Ferrero) разработал шоколадно-ореховую пасту («pasta gianduja»,
+   «supercrema gianduja»), которая с 1964 года продаётся под названием
+   «Nutella».
+
+   Июль 15, 2015 | Filed Under[31]: [32]Шоколад
+
+Comments
+
+   Comments are closed.
+
+   Molland © 2015 [33]verde-coffee.ru
+
+References
+
+   1. http://verde-coffee.ru/?feed=rss2
+   2. http://verde-coffee.ru/?feed=rss
+   3. http://verde-coffee.ru/?feed=atom
+   4. http://verde-coffee.ru/?p=672
+   5. http://verde-coffee.ru/?p=679
+   6. http://verde-coffee.ru/index.php?rest_route=/oembed/1.0/embed&url=http://verde-coffee.ru/?p=676
+   7. http://verde-coffee.ru/index.php?rest_route=/oembed/1.0/embed&url=http://verde-coffee.ru/?p=676&format=xml
+   8. http://verde-coffee.ru/
+   9. http://verde-coffee.ru/
+  10. http://verde-coffee.ru/?page_id=24
+  11. http://verde-coffee.ru/?page_id=22
+  12. http://verde-coffee.ru/?page_id=20
+  13. http://verde-coffee.ru/?feed=rss2
+  14. http://verde-coffee.ru/?p=886
+  15. http://verde-coffee.ru/?p=883
+  16. http://verde-coffee.ru/?p=878
+  17. http://verde-coffee.ru/?p=875
+  18. http://verde-coffee.ru/?p=872
+  19. http://verde-coffee.ru/?p=869
+  20. http://verde-coffee.ru/?p=865
+  21. http://verde-coffee.ru/?cat=1
+  22. http://verde-coffee.ru/?cat=5
+  23. http://verde-coffee.ru/?cat=2
+  24. http://verde-coffee.ru/?cat=9
+  25. http://verde-coffee.ru/?cat=8
+  26. http://verde-coffee.ru/?cat=7
+  27. http://verde-coffee.ru/?cat=4
+  28. http://verde-coffee.ru/?cat=6
+  29. http://verde-coffee.ru/?cat=10
+  30. http://verde-coffee.ru/?p=676
+  31. http://www.wpfree.ru/
+  32. http://verde-coffee.ru/?cat=10
+  33. http://verde-coffee.ru/
